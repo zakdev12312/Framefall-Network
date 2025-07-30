@@ -1,27 +1,27 @@
-# 🌀 Framefall Network
+# 🌐 Framefall Network
 
-**A modular host for fragments, echoes, and experimental ideas. A static framework where creativity collects and refracts.**
+**Framefall Network** is a central hub designed to host and interlink a constellation of modular nodes and experimental sub-projects. It functions as both infrastructure and archive—a platform where ideas converge, evolve, and sometimes collide.
 
----
-
-## Purpose
-
-Framefall Network exists as an abstract container—an adaptable space where diverse content modules can coexist. It favors ambiguity, invites introspection, and thrives on creative repurposing.
-
-There is no fixed shape, only a commitment to:
-- Modularity without hierarchy
-- Memory without chronology
-- Creativity without constraint
-
-Each module reflects a distinct theme, concept, or utility. Together, they form a decentralized narrative across digital terrain.
+At its core, Framefall serves as the connective tissue between creative systems and infrastructural components. Whether you're contributing utilities, lore-driven modules, or something entirely abstract, each piece plays into a wider framework of structured creativity.
 
 ---
 
-## Philosophy
+## 🧠 Purpose
 
-Framefall is not a brand. (yet)
-Framefall is not a tool.
+- Host diverse modular projects under a unified architectural philosophy
+- Enable cross-node interactions and infrastructural reuse
+- Serve as a living repository for ideas in motion
 
-Framefall is a place.
+---
 
-A frame for falling ideas. A network of intentional fragments.
+## 🧩 Project Scope
+
+Framefall is intentionally vague and structurally flexible. Projects within this network may range from:
+
+- Development tools and prototypal infrastructure  
+- Creative fragments or abstract modules  
+- Social mechanics, user shells, or lore containers  
+
+This is not a product—it's a platform for platforms. Expect chaos. Expect pattern.
+
+---
