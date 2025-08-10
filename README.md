@@ -1,6 +1,6 @@
-# 🌐 Framefall Network
+# 🌐 Framefall Studio
 
-**Framefall Network** is a central hub designed to host and interlink a constellation of modular nodes and experimental sub-projects. It functions as both infrastructure and archive—a platform where ideas converge, evolve, and sometimes collide.
+**Framefall Studio** is a central hub designed to host and interlink a constellation of modular nodes and experimental sub-projects. It functions as both infrastructure and archive—a platform where ideas converge, evolve, and sometimes collide.
 
 At its core, Framefall serves as the connective tissue between creative systems and infrastructural components. Whether you're contributing utilities, lore-driven modules, or something entirely abstract, each piece plays into a wider framework of structured creativity.
 
